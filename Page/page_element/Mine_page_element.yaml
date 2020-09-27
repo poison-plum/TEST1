@@ -1,0 +1,10 @@
+locator:
+ QQ:
+  type: xpath
+  value: //*[@text='QQ']
+ WEIBO:
+  type: xpath
+  value: //*[@text='微博']
+ setting:
+  type: xpath
+  value: //*[@text='设置']

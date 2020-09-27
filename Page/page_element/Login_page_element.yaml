@@ -1,0 +1,11 @@
+phone:
+ type: xpath
+ value: //*[@resource-id='loginName']
+ text: 18200118561
+password:
+ type: xpath
+ value: //*[@resource-id='loginPassword']
+ text: xmlove13
+login_button:
+ type: accessibility id
+ value: 登录

@@ -1,0 +1,15 @@
+xueqiu:
+ page: wode
+ locators:
+  -
+   name: 我的
+   type: xpath
+   value: //*[@text="我的"][@resource-id="com.xueqiu.android:id/tab_name"]
+  -
+   name: 草稿箱
+   type: xpath
+   value: //*[@text="草稿箱"]
+  -
+   name: 我订阅的邮箱
+   type: xpath
+   value: //*[contains(@text, '我订阅的')]

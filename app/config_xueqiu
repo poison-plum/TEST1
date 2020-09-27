@@ -1,0 +1,6 @@
+platformName: Android
+platformVersion: 11.0.0
+deviceName: emulator-5554
+appPackage: com.xueqiu.android
+appActivity: .view.WelcomeActivityAlias
+noReset: yes
