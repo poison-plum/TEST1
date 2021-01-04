@@ -17,3 +17,4 @@ TouchAction(driver).press(x=int(width/2), y=int(height*4/5)).wait(3000).move_to(
 
 print("this is test two")
 print("this is test three")
+print("hahaha")
